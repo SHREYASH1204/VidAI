@@ -13,9 +13,10 @@ def show_home():
     * 🎥 **Highlight Reel** - Automatically generate highlight clips
     * 🎥 **Highlight Extractor** - Extract highlights from your videos
     * 🎥 **Scene Optimizer** - Optimize your scenes for better video quality
-    * 🎥 **Emotion Processor** - Process your videos for better video quality
     * 🎥 **Transitions** - Add transitions to your videos
     * 🎥 **Emotion-Based Highlight Reel** - Generate highlight reels based on emotions
+    * 📝 **Subtitle Generator** - Automatically generate and sync subtitles for your videos
+    * 📐 **Video Resizer** - Resize videos for YouTube, Instagram, and more platforms with ease
     
     Get started by selecting a feature from the sidebar!
     """)
