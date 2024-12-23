@@ -1,0 +1,39 @@
+/* Main app styling */
+.main {
+    padding: 2rem;
+}
+
+/* Sidebar styling */
+.sidebar .sidebar-content {
+    background-color: #f0f2f6;
+}
+
+/* Headers */
+h1 {
+    color: #1f77b4;
+    font-weight: bold;
+}
+
+h2, h3 {
+    color: #2c3e50;
+}
+
+/* Buttons */
+.stButton>button {
+    background-color: #1f77b4;
+    color: white;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+
+.stButton>button:hover {
+    background-color: #155782;
+}
+
+/* File uploader */
+.uploadedFile {
+    border: 2px dashed #1f77b4;
+    border-radius: 5px;
+    padding: 1rem;
+}

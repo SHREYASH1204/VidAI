@@ -1,0 +1,31 @@
+# Core dependencies
+streamlit>=1.28.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+moviepy>=1.0.3
+
+# For video processing
+ffmpeg-python>=0.2.0
+python-ffmpeg>=2.0.0
+
+# For audio processing
+librosa>=0.10.1
+pydub>=0.25.1
+
+# For emotion detection
+transformers>=4.35.0
+torch>=2.1.0
+Pillow>=10.1.0
+
+# For scene detection
+scenedetect>=0.6.2
+
+# For subtitle generation
+whisper>=1.1.10
+pysrt>=1.1.2
+
+# Optional dependencies for better performance
+pytesseract>=0.3.10  # For OCR capabilities
+tensorflow>=2.14.0   # For additional ML capabilities 
+
+mediapipe>=0.10.7 

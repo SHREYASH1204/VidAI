@@ -1,0 +1,6 @@
+2024-12-22 15:31:17,384 - app.transition - WARNING - Error during cleanup: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adrit\\AppData\\Local\\Temp\\tmphdyyx7v3\\shreyash.mp4'
+2024-12-22 16:23:53,828 - app.transition - WARNING - Error during cleanup: [WinError 32] The process cannot access the file because it is being used by another process: "C:\\Users\\adrit\\AppData\\Local\\Temp\\tmpfo126yix\\SRK's best dialogue _Agar kisi cheez ko siddat se chaho_ best what's up  status.mp4"
+2024-12-23 22:18:16,877 - app.transition - ERROR - Error processing final video: Invalid transition input.
+2024-12-23 22:18:31,081 - app.transition - ERROR - Error processing final video: Invalid transition input.
+2024-12-23 22:18:47,043 - app.transition - ERROR - Error processing final video: Invalid transition input.
+2024-12-23 22:19:23,086 - app.transition - ERROR - Error processing final video: Invalid transition input.
